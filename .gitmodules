@@ -1,0 +1,3 @@
+[submodule "dorianmariecom"]
+	path = dorianmariecom
+	url = git@github.com:dorianmariecom/dorianmariecom.git
